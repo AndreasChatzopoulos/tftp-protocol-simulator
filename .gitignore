@@ -1,0 +1,19 @@
+# Maven
+target/
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCode (if applicable)
+.vscode/
+
+# Backup/temporary files
+*.tmp
+*.bak
+*.swp
